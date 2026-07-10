@@ -1,11 +1,10 @@
-package com.mathdev.personal_finance_api.entity;
+package com.mathdev.personal_finance_api.user;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import org.springframework.context.annotation.EnableMBeanExport;
 
 import java.time.LocalDateTime;
 import java.util.UUID;
