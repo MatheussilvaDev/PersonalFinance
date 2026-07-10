@@ -1,4 +1,6 @@
 package com.mathdev.personal_finance_api.enums;
 
-public enum Type {
+public enum TypeEnum {
+    INCOME,
+    EXPENSE
 }
