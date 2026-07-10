@@ -1,6 +1,7 @@
-package com.mathdev.personal_finance_api.entity;
+package com.mathdev.personal_finance_api.category;
 
-import com.mathdev.personal_finance_api.enums.TypeEnum;
+import com.mathdev.personal_finance_api.user.UserEntity;
+import com.mathdev.personal_finance_api.commom.enums.TypeEnum;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
